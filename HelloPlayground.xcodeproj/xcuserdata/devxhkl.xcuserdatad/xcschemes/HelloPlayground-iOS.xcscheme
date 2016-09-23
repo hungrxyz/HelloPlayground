@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FA37CA771D949A5200AB0AF7"
-               BuildableName = "HelloPlayground.app"
-               BlueprintName = "HelloPlayground"
+               BlueprintIdentifier = "FA37CA931D949C2F00AB0AF7"
+               BuildableName = "HelloPlayground-iOS.framework"
+               BlueprintName = "HelloPlayground-iOS"
                ReferencedContainer = "container:HelloPlayground.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA37CA771D949A5200AB0AF7"
-            BuildableName = "HelloPlayground.app"
-            BlueprintName = "HelloPlayground"
-            ReferencedContainer = "container:HelloPlayground.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA37CA771D949A5200AB0AF7"
-            BuildableName = "HelloPlayground.app"
-            BlueprintName = "HelloPlayground"
+            BlueprintIdentifier = "FA37CA931D949C2F00AB0AF7"
+            BuildableName = "HelloPlayground-iOS.framework"
+            BlueprintName = "HelloPlayground-iOS"
             ReferencedContainer = "container:HelloPlayground.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA37CA771D949A5200AB0AF7"
-            BuildableName = "HelloPlayground.app"
-            BlueprintName = "HelloPlayground"
+            BlueprintIdentifier = "FA37CA931D949C2F00AB0AF7"
+            BuildableName = "HelloPlayground-iOS.framework"
+            BlueprintName = "HelloPlayground-iOS"
             ReferencedContainer = "container:HelloPlayground.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
